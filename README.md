@@ -1,6 +1,4 @@
-Here is the full `README.md` file that you can copy entirely:
 
-```markdown
 # Typing Speed Test Game
 
 A simple **Typing Speed Test** game built using **Python** and **Pygame**. The game allows users to test their typing speed (Words Per Minute) and accuracy while typing a random sentence from a text file. The game also tracks the highest score (WPM) achieved and displays real-time results.
@@ -13,9 +11,7 @@ A simple **Typing Speed Test** game built using **Python** and **Pygame**. The g
 - **Real-time Accuracy Calculation**: Accuracy is calculated based on the number of correct characters typed.
 - **Reset Functionality**: The game allows the user to restart the test and try again.
 
-## Screenshots
 
-![Game Screenshot](assets/SpeedTestGame.jpg)
 
 ## Requirements
 
